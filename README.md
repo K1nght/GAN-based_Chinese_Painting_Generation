@@ -19,6 +19,7 @@
 * [cp2photo_v1](https://jbox.sjtu.edu.cn/l/aoMeaU): contains <font color=red>5382</font> photosincluding landscape photos, plant photos and animal pho-tos, <font color=red>1070</font> Chinese paintings including Chinese landscape painting, Chinese bird-and-flower painting and Chinesefigure painting.
 * [cp2photo_v2](https://jbox.sjtu.edu.cn/l/KnHCBh): contains <font color=red>826</font> photos including almostall landscape photos and <font color=red>522</font> traditional Chinese paintingsincluding almost all landscape paintings.
 * [cp2photo_v3](https://jbox.sjtu.edu.cn/l/EnSE2r): contains <font color=red>2194</font> landscapephotos and <font color=red>2686</font> Chinese landscape paintings.
+Baiduyunpan link for these three datasets: https://pan.baidu.com/s/1cEgMAYsL8wLR17XnGa-vGA, password: 03ci
 
 ## 开启一次训练完整流程
 * 登录Xshell 6连接服务器au332p10
